@@ -23,3 +23,13 @@ This project generates a children’s storybook-style image using Hugging Face a
    ```
 
 The script saves the result as `cat_rainbow.png`.
+
+## VS Code
+
+Open this folder in VS Code and press `F5` to run the configured launch target.
+
+## One-command run
+
+```bash
+./run.sh
+```
