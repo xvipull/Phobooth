@@ -3,3 +3,10 @@ __pycache__/
 cat_rainbow.png
 venv/
 .venv/
+.env
+.env.*
+!.env.example
+.vscode/settings.json
+.vscode/*.log
+!.vscode/launch.json
+!.vscode/tasks.json
