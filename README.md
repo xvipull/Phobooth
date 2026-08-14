@@ -28,6 +28,8 @@ The script saves the result as `cat_rainbow.png`.
 
 Open this folder in VS Code and press `F5` to run the configured launch target.
 
+You can also run the task named `Run image generator`.
+
 ## One-command run
 
 ```bash
